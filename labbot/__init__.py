@@ -6,7 +6,6 @@ from .warnings import warndec
 from .iterable import iterdec
 from .compose import compose
 from .errors import errordec
-from .mergerfs import mfsdec
 from .cache import cachedec
 from .partial import dpart
 from .lock import lockdec
